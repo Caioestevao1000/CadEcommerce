@@ -1,4 +1,7 @@
 <?php
+
+//Insere Produto no Banco de Dados
+
     include_once('controller/conexao.php');
 
     $categoria = $_POST['seleciona_categoria'];

@@ -12,7 +12,10 @@
     <header>
       <div class="center">
         <h1 style="text-align: center">Programação Web II - Pedido de compra</h1>
-        <a href="carrinho.php" target="_blank">Carrinho</a>
+        <a href="carrinho.php" target="_blank" style="margin-left: 10px;">Carrinho</a>
+        <a href="marca.php" style="margin-left: 10px;">Cad.Marca</a>
+        <a href="categoria.php" style="margin-left: 10px;">Cad.Categoria</a>
+        <a href="produto.php">Cad.Produtos</a>
       </div>
     </header>
     <section id="produtos">
@@ -20,6 +23,5 @@
           <?php require_once('controller/produtos-busca.php'); ?>
         </div>
     </section>
-
   </body>
 </html>

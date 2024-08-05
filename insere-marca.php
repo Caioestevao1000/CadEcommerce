@@ -1,4 +1,7 @@
 <?php
+
+//Insere Marca no Banco de Dados
+
     include_once('controller/conexao.php');
 
     $descricao = $_POST['descricao'];
