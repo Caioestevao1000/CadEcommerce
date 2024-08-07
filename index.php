@@ -13,9 +13,10 @@
       <div class="center">
         <h1 style="text-align: center">Programação Web II - Pedido de compra</h1>
         <a href="carrinho.php" target="_blank" style="margin-left: 10px;">Carrinho</a>
-        <a href="marca.php" style="margin-left: 10px;">Cad.Marca</a>
+        <a href="produtos.php" style="margin-left: 10px;">Cad.Produtos</a>
         <a href="categoria.php" style="margin-left: 10px;">Cad.Categoria</a>
-        <a href="produto.php">Cad.Produtos</a>
+        <a href="marca.php">Cad.Marca</a>
+        
       </div>
     </header>
     <section id="produtos">
